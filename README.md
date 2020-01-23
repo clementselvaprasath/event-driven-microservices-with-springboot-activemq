@@ -11,6 +11,8 @@ C:\software_tools\apache-activemq-5.10.0\bin>
 
 cberkmans@L-SJN-40005330 /cygdrive/c/repo/event-driven-microservices-with-springboot-activemq/activemq-sender
 $ mvn -DXmx1024m spring-boot:run
+
+
 [INFO] Scanning for projects...
 [INFO]
 [INFO] ------------< com.techshard.activemqsender:activemq-sender >------------
